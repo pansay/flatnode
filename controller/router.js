@@ -11,6 +11,8 @@ var express = require('express'),
 var posts = files.listFiles(config.postsFolder);
 console.log(posts);
 
+console.log(files.readMarkdownFile(posts[0]));
+
 module.exports = router
 
     .get('/', function (req, res) {
