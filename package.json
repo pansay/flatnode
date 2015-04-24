@@ -1,0 +1,20 @@
+{
+  "name": "flatnode",
+  "version": "0.0.1",
+  "description": "node.js implementation of flat file blog",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pansay/flatnode.git"
+  },
+  "author": "pansay",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/pansay/flatnode/issues"
+  },
+  "homepage": "https://github.com/pansay/flatnode",
+  "dependencies": {
+    "express": "^4.12.3",
+    "sprintf-js": "^1.0.2",
+    "swig": "^1.4.2"
+  }
+}
