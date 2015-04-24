@@ -1,4 +1,9 @@
 {
     "title": "Flat Node",
-    "start": "S3 Started on http://localhost:%1$s/"
+    "start": "Flat Node Server Started on http://localhost:%1$s/",
+	"tagline": "Flat File Blog FTW",
+	"keywords": "flat-file cms mvc markdown",
+	"description": "Minimalistic MVC flat file cms markdown blog tool.",
+	"404": "404",
+	"all-posts": "All posts"
 }
